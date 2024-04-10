@@ -19,7 +19,7 @@ def solution(name):
         # 현재까지 움직인 거리 (오른쪽으로만), 왼쪽으로 옮겨 다녀오는 거리 중 짧은 거리 선택
         distance = min(idx, len(name) - next_idx)
         # idx: 오른쪽으로 진행한 거리
-        # len(name) - next_idx: 알파벳을 변경한 뒤 A가 있으면 건들지 않고 종료
+        # len(name) - next_idx: 왼쪽으로 다녀온 적이 있으면 그만큼의 거리가 됨. 오른쪽으로 전부 이동해보며 뒤에 A가 연속해 있다면 자연스레 줄어듦
         # distance: (필요하다면) 왼쪽으로 다녀온 거리
         move = min(move, idx + len(name) - next_idx + distance)
 
