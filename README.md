@@ -31,3 +31,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42587 - 4/23 프로세
 https://school.programmers.co.kr/learn/courses/30/lessons/42583 - 4/24 다리를 지나는 트럭
 https://school.programmers.co.kr/learn/courses/30/lessons/42584 - 4/25 주식가격
 https://school.programmers.co.kr/learn/courses/30/lessons/64062 - 4/26 징검다리 건너기
+
+[4/27 ~ 4/29 문제]<br/>
+https://school.programmers.co.kr/learn/courses/30/lessons/43238 - 4/27 입국심사
+https://school.programmers.co.kr/learn/courses/30/lessons/86053 - 4/28 금과 은 운반하기
+https://www.acmicpc.net/problem/2343 - 4/29 기타 레슨 
