@@ -18,3 +18,23 @@ def solution(n, times):
             
 
     return answer
+
+
+'''
+import heapq
+
+def solution(n, times):
+    heap = []
+    for time in times:
+        heapq.heappush(heap, (time, time))
+    
+    answer = 0
+    
+    for _ in range(n):
+        current_time, interval = heapq.heappop(heap)
+        answer = current_time
+        heapq.heappush(heap, (current_time + interval, interval))
+    
+    
+    return answer
+'''
