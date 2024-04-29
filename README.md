@@ -36,3 +36,12 @@ https://school.programmers.co.kr/learn/courses/30/lessons/64062 - 4/26 징검다
 https://school.programmers.co.kr/learn/courses/30/lessons/43238 - 4/27 입국심사
 https://school.programmers.co.kr/learn/courses/30/lessons/86053 - 4/28 금과 은 운반하기
 https://www.acmicpc.net/problem/2343 - 4/29 기타 레슨 
+
+[4/30 ~ 5/2 문제]<br/>
+https://school.programmers.co.kr/learn/courses/30/lessons/42895 - 4/30 N으로 표현
+https://school.programmers.co.kr/learn/courses/30/lessons/43105 - 5/1 정수 삼각형
+https://school.programmers.co.kr/learn/courses/30/lessons/42898 - 5/2 등교길
+https://www.acmicpc.net/problem/1965 - 5/3 상자넣기
+https://www.acmicpc.net/problem/2579 - 5/4 계단오르기
+https://www.acmicpc.net/problem/9461 - 5/5 파도반 수열
+https://www.acmicpc.net/problem/2225 - 5/6 합분해
