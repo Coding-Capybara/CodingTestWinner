@@ -77,5 +77,6 @@ https://leetcode.com/problems/subarray-sums-divisible-by-k/ - 6/9 974. Subarray 
 
 [6/10 ~ 6/16 문제]<br/>
 folder: week9 \
-https://leetcode.com/problems/height-checker/ - 6/10 1051. Height Checker
-https://leetcode.com/problems/relative-sort-array/ - 6/11 1122. Relative Sort Array
+https://leetcode.com/problems/height-checker/ - 6/10 1051. Height Checker \
+https://leetcode.com/problems/relative-sort-array/ - 6/11 1122. Relative Sort Array \
+https://leetcode.com/problems/sort-colors/ - 6/12 75. Sort Colors
