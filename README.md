@@ -80,4 +80,5 @@ https://leetcode.com/problems/subarray-sums-divisible-by-k/ - 6/9 974. Subarray 
 folder: week9 \
 https://leetcode.com/problems/height-checker/ - 6/10 1051. Height Checker \
 https://leetcode.com/problems/relative-sort-array/ - 6/11 1122. Relative Sort Array \
-https://leetcode.com/problems/sort-colors/ - 6/12 75. Sort Colors
+https://leetcode.com/problems/sort-colors/ - 6/12 75. Sort Colors \
+https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/ - 6/13 2037. Minimum Number of Moves to Seat Everyone
